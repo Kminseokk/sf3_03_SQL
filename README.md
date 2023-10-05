@@ -2,4 +2,12 @@
 
 🎉 230927 : DDM, DML, FK 실습
 
-🎉 230927 : JOIN 학습, SQL 복습 실습
+(SELECT, ORDER BY, INSERT INTO, UPDATE, DROP, CREATE)
+
+🎉 231004 : JOIN 학습, SQL 복습 실습
+
+(GROUP BY, inner join, outer join, HAVING, Full outer join, ALTER TABLE)
+
+🎉 231005 : SQL 복습 심화 실습
+
+(FK, UPDATE, JOIN, 중첩 서브쿼리)
